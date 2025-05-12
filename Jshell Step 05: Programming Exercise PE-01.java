@@ -11,5 +11,6 @@
 2 .Write an expression to calculate the number of seconds in a day.
 
 60*60*24
+86400
 
 */
